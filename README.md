@@ -84,7 +84,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alejandro-alvarez-vanegas)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DuneV)  
-[![Email](https://img.shields.io/badge/Email-da.alvarezv@uniandes.edu.co-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielalejandro133@outlook.com)
+[![Email](https://img.shields.io/badge/Email-danielalejandro133@outlook.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielalejandro133@outlook.com)
 
 ---
 
