@@ -8,10 +8,11 @@
 
 - 🤖 Developing autonomous robots using **ROS / ROS2**, **C++**, and **Python**
 - ⚙️ Building control systems and edge computing pipelines for smart robotics
+- 🧠 Applying **Deep Learning** and **NLP** using **TensorFlow** and **PyTorch**
 - 📈 Predictive maintenance and intelligent monitoring via data-driven modeling
-- 🧠 Exploring reinforcement learning in robotic behavior and control
-- 🛠️ Designing embedded systems and PCB layouts
-- ☁️ Integrating systems with **AWS services** like **Lambda**, **Fargate**, and **ECS**
+- ☁️ Integrating robotics and embedded systems with **AWS Lambda**, **Fargate**, and **ECS**
+- 🛠️ Designing custom mechanical and electronic systems with full-stack integration
+- 🧩 Passionate about **3D printing** and rapid prototyping for robotic systems
 
 ---
 
@@ -19,7 +20,7 @@
 
 - Robotics & Mechatronics  
 - Embedded Systems (C/C++)  
-- Edge Computing  
+- Deep Learning & Natural Language Processing (NLP)  
 - Machine Design & CAD  
 - Artificial Intelligence in Control  
 - Cloud-based Robotics with AWS  
@@ -32,6 +33,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### Robotics and Control
 
@@ -39,10 +41,18 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Ansys](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 
+#### AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 #### CAD & Mechanical Tools
 
 ![Autodesk Inventor](https://img.shields.io/badge/Inventor-E8B11C?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-005571?style=for-the-badge&logo=autodesk&logoColor=white)
+![PrusaSlicer](https://img.shields.io/badge/PrusaSlicer-EE6C4D?style=for-the-badge&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF5733?style=for-the-badge)
 
 #### Embedded Systems
 
