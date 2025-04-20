@@ -63,6 +63,7 @@
 
 #### Cloud & DevOps
 
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![AWS Fargate](https://img.shields.io/badge/AWS%20Fargate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
